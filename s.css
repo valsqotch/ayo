@@ -1,0 +1,16 @@
+#d1{
+    position:relative;
+    margin:auto;
+    top:50vh;
+    transform:translate(0,50%);
+    height:0px;
+    width:fit-content;
+}
+#btn{
+    position:relative;
+    left:50%;
+    transform:translate(-50%);
+}
+#image{
+    transform:translate(0,-50%);
+}
